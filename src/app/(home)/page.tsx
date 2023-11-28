@@ -57,6 +57,7 @@ export default async function Home() {
         <ProductList products={futebol} />
       </div>
       
-    </div> //bom para acessibilidade/\
+    </div>
+    
   );
 }
