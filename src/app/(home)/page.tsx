@@ -36,7 +36,7 @@ export default async function Home() {
       <div className="mt-8 px-5 pb-5">
         <Categories  />
       </div>
-      <div>
+      <div className="lg:px-32">
         <SectionTitle><Link href="/deals">Ofertas</Link></SectionTitle>
         <ProductList products={deals} />
       </div>
@@ -44,7 +44,7 @@ export default async function Home() {
       <div><PromoBanner src="/banner-home-01.png" alt="Até 55% de desconto só esse mês" /></div>
 
       
-      <div>
+      <div className="lg:px-32">
         <SectionTitle><Link href="/category/volei">Voleibol</Link></SectionTitle>
         <ProductList products={volei} />
       </div>
@@ -52,7 +52,7 @@ export default async function Home() {
       <div><PromoBanner src="/banner-home-01.png" alt="Até 55% de desconto só esse mês" /></div>
 
       
-      <div>
+      <div className="lg:px-32" >
         <SectionTitle><Link href="/category/futebol">Futebol</Link></SectionTitle>
         <ProductList products={futebol} />
       </div>

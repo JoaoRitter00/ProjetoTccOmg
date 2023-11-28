@@ -13,7 +13,7 @@ const ProductImages = ({name, imageURLs}:ProductImagesProps) => {
         setCurrentImage(imageURL)
     }
     return ( <div className="flex flex-col">
-        <div className="flex h=[380px] w-full items-center justify-center bg-accent">
+        <div className="flex h-[380px] w-full lg:w-[736px] lg:h-[670px] items-center justify-center bg-accent">
             <Image src={currentImage}
                 alt={name}
                 width={0}
@@ -25,7 +25,7 @@ const ProductImages = ({name, imageURLs}:ProductImagesProps) => {
                 }}
                 />
         </div>
-        <div className="grid grid-cols-4 gap-4 px-5 mt-7">
+        <div className="grid grid-cols-4 gap-4 px-5 mt-7 lg:absolute lg:flex lg:flex-col">
             {imageURLs.map((imageURL)=> (
                 <button key={imageURL} className={`flex h-[80px] items-center justify-center rounded-lg bg-accent${imageURL === currentImage && "border-2 border-solid border-primary"}`}onClick={()=>handleImageClick(imageURL)}>
                     <Image src={imageURL}
