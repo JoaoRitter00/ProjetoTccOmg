@@ -22,13 +22,14 @@ export const POST = async (request: Request) => {
   );
 
   if (event.type === "checkout.session.completed") {
-    const session = event.data.object as any
+    const session = event.data.object as any;
     const sessionWithLineItems = await stripe.checkout.sessions.retrieve(
         event.data.object.id,
         {
-            expand:['line_items'],
+          expand: ["line_items"],
         },
     );
+
     const lineItems = sessionWithLineItems.line_items;
     await prismaClient.order.update({
       where: {
@@ -38,7 +39,6 @@ export const POST = async (request: Request) => {
         status: "PAYMENT_CONFIRMED",
       },
     });
-    console.log(lineItems);//Tem q ajustar
  
   }
 
