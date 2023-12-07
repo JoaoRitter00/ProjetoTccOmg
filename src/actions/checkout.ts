@@ -27,7 +27,7 @@ line_items: products.map((product) => {
         description: product.description,
         images: product.imageURLs,
       },
-      unit_amount: product.totalPrice * 100,
+      unit_amount: Math.round(product.totalPrice * 100),
     },
     quantity: product.quantity,
   };
