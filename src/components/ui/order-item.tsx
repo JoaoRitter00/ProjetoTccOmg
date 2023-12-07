@@ -127,14 +127,14 @@ import {
   
                   <div className="flex w-full justify-between py-3 lg:text-sm">
                     <p>Descontos</p>
-                    <p>-R$ totalDiscounts.toFixed(2)}</p>
+                    <p>-R$ {totalDiscounts.toFixed(2)}</p>
                   </div>
   
                   <Separator />
   
                   <div className="flex w-full justify-between py-3 text-sm font-bold lg:text-base">
                     <p>Total</p>
-                    <p>R$ total.toFixed(2)}</p>
+                    <p>R$ {total.toFixed(2)}</p>
                   </div>
                 </div>
               </div>
