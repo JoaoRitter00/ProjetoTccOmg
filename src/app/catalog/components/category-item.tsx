@@ -15,7 +15,7 @@ const CategoryItem = ({category}: CategoryItemProps) => {
                 width={0}
                 height={0}
                 sizes="100vw"
-                className="h-auto max-h-[70%] w-auto max-w-[80%] object-contain"
+                className="h-auto max-h-[90%] w-auto max-w-[100%] object-contain"
                 />
             </div>
             <div className="rounded-bl-lg rounded-br-lg bg-accent py-4">

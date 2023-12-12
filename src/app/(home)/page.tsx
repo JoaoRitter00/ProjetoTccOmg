@@ -67,23 +67,21 @@ export default async function Home() {
 
       <div className="lg:px-32">
         <SectionTitle>
-          <Link href="/category/volei">Voleibol</Link>
+          <Link href="/category/futebol">Futebol</Link>
         </SectionTitle>
-        <ProductList products={volei} />
+        <ProductList products={futebol} />
       </div>
-
       <div>
         <PromoBanner
           src="/banner-home-01.png"
           alt="Até 55% de desconto só esse mês"
         />
       </div>
-
       <div className="lg:px-32">
         <SectionTitle>
-          <Link href="/category/futebol">Futebol</Link>
+          <Link href="/category/volei">Voleibol</Link>
         </SectionTitle>
-        <ProductList products={futebol} />
+        <ProductList products={volei} />
       </div>
     </div>
   );
