@@ -14,8 +14,8 @@ async function main() {
 
     const futebol = [
       {
-        name: "Caneleira Nike Mercurial Lite",
-        slug: "caneleira-nike-mercurial-lite",
+        name: "Bola Nike Academy",
+        slug: "bola-nike-academy",
         description:
           "As Caneleiras Nike Mercurial Lite protegem a parte inferior das pernas sem comprometer a velocidade. O design ultrafino combina espuma macia e uma estrutura durável para difusão de impacto no campo",
         imageURLs: [
@@ -27,8 +27,8 @@ async function main() {
         discountPercent: 10, // 10% discount
       },
       {
-        name: "Meião Nike Academy Unissex",
-        slug: "meião-nike-academy-unissex",
+        name: "Bola Nike League",
+        slug: "bola-nike-league",
         description:
           "As meias de futebol Nike Classic foram projetadas para manter você confortável durante o jogo, com suporte em arco e tecido Dri-FIT leve que ajudam a manter os pés secos.",
         imageURLs: [
@@ -40,8 +40,8 @@ async function main() {
         discountPercent: 5, // 5% discount
       },
       {
-        name: "Luvas de Goleiro Nike Infantil",
-        slug: "luvas-de-goleiro-nike-infantil",
+        name: "Bola Campo Bravo",
+        slug: "bola-campo-bravo",
         description:
           "As luvas Nike Jr. Goalkeeper Match estão prontas para qualquer defesa. O acolchoamento macio proporciona amortecimento contra impactos, enquanto uma superfície macia proporciona aderência em condições úmidas ou secas.",
         imageURLs: ["https://abre.ai/fut-balls-campo-bravo"],
@@ -50,8 +50,8 @@ async function main() {
         discountPercent: 10, // 10% discount
       },
       {
-        name: "Chuteira Nike Mercurial Superfly 9 Club Infantil Society",
-        slug: "chuteira-nike-mercurial-superfly-9-club-infantil-society",
+        name: "Bola Campo Bravo 70 Pro",
+        slug: "bola-campo-bravo-70",
         description:
           "Aprendendo as habilidades, o jogo e todos os treinos? Mostre o quão longe você chegou enquanto arrasa nas chuteiras Nike Jr. Feita para superfícies de grama, ela tem a tração que você precisa para correr e cortar no campo. Do treino ao dia do jogo, o design durável aguenta até o apito final.",
         imageURLs: [
@@ -60,11 +60,11 @@ async function main() {
         ],
         basePrice: 399.99,
         categoryId: futebolCategory.id,
-        discountPercent: 0,
+        discountPercent: 10,
       },
       {
-        name: "Bola Nike Academy",
-        slug: "bola-nike-academy",
+        name: "Bola Topper",
+        slug: "bola-topper",
         description:
           "A Bola de Futebol Nike Academy tem sulcos inovadores projetados para um giro consistente quando a bola está no ar. Estampas de alto contraste ajudam você a controlar facilmente a bola para que possa se concentrar em suas habilidades com os pés.",
         imageURLs: [
@@ -76,8 +76,8 @@ async function main() {
         discountPercent: 10, // 10% discount
       },
       {
-        name: "Bola Nike Premier League Academy",
-        slug: "bola-nike-premier-league-academy",
+        name: "Bola Puma Premier League Academy",
+        slug: "bola-puma-premier-league-academy",
         description:
           "Você nunca para de melhorar as suas habilidades, então use a bola que trabalha tanto quanto você. Os gráficos brilhantes são fáceis de ver em campo enquanto você pratica as suas habilidades nos pés, e suas ranhuras inovadoras criam um giro consistente para aquele chute aéreo em direção ao gol.",
         imageURLs: [
@@ -111,8 +111,8 @@ async function main() {
     });
     const basquete = [
       {
-        name: "Tênis Jordan Tatum 1 V3 Masculino",
-        slug: "tênis-jordan-tatum-1-V3-masculino",
+        name: "Bola Basquete Wilson Standard",
+        slug: "bola-basquete-wilson-standard",
         description:
           "Jayson não tem vergonha de seu amor por fortes automóveis americanos. Há algo em seu visual atemporal que continua bonito. O Tatum 1 'Old School' não é diferente. Feito em preto elegante e cinza frio, é mais fresco do que a pintura fresca em um muscle car clássico. Acelere, pedale ao som do metal, vrum vrum - seja como for que você queira dizer, basta entrar na quadra e marcar.",
         imageURLs: [
@@ -125,8 +125,8 @@ async function main() {
         discountPercent: 10, // 10% discount
       },
       {
-        name: "Tênis Jordan Tatum 1 V3 Masculino",
-        slug: "tênis-jordan-tatum-1-V3-masculino",
+        name: "Bola Penalty Shoot Bege",
+        slug: "bola-penalty-shoot-bege",
         description:
           "Jayson não tem vergonha de seu amor por fortes automóveis americanos. Há algo em seu visual atemporal que continua bonito. O Tatum 1 'Old School' não é diferente. Feito em preto elegante e cinza frio, é mais fresco do que a pintura fresca em um muscle car clássico. Acelere, pedale ao som do metal, vrum vrum - seja como for que você queira dizer, basta entrar na quadra e marcar.",
         imageURLs: [
@@ -138,8 +138,8 @@ async function main() {
         discountPercent: 10, // 10% discount
       },
       {
-        name: "Tênis Jordan Tatum 1 V3 Masculino",
-        slug: "tênis-jordan-tatum-1-V3-masculino",
+        name: "Bola Basquete Wilson Rosa",
+        slug: "bola-basquete-wilson-rosa",
         description:
           "Jayson não tem vergonha de seu amor por fortes automóveis americanos. Há algo em seu visual atemporal que continua bonito. O Tatum 1 'Old School' não é diferente. Feito em preto elegante e cinza frio, é mais fresco do que a pintura fresca em um muscle car clássico. Acelere, pedale ao som do metal, vrum vrum - seja como for que você queira dizer, basta entrar na quadra e marcar.",
         imageURLs: [
@@ -152,8 +152,8 @@ async function main() {
         discountPercent: 10, // 10% discount
       },
       {
-        name: "Tênis Jordan Tatum 1 V3 Masculino",
-        slug: "tênis-jordan-tatum-1-V3-masculino",
+        name: "Bola Basquete Wilson Preto",
+        slug: "bola-basquete-wilson-preto",
         description:
           "Jayson não tem vergonha de seu amor por fortes automóveis americanos. Há algo em seu visual atemporal que continua bonito. O Tatum 1 'Old School' não é diferente. Feito em preto elegante e cinza frio, é mais fresco do que a pintura fresca em um muscle car clássico. Acelere, pedale ao som do metal, vrum vrum - seja como for que você queira dizer, basta entrar na quadra e marcar.",
         imageURLs: [
@@ -180,8 +180,8 @@ async function main() {
         discountPercent: 10, // 10% discount
       },
       {
-        name: "Tênis Jordan Tatum 1 V3 Masculino",
-        slug: "tênis-jordan-tatum-1-V3-masculino",
+        name: "Bola Basquete Jordan Vinho",
+        slug: "bola-basquete-jordan-vinho",
         description:
           "Jayson não tem vergonha de seu amor por fortes automóveis americanos. Há algo em seu visual atemporal que continua bonito. O Tatum 1 'Old School' não é diferente. Feito em preto elegante e cinza frio, é mais fresco do que a pintura fresca em um muscle car clássico. Acelere, pedale ao som do metal, vrum vrum - seja como for que você queira dizer, basta entrar na quadra e marcar.",
         imageURLs: [
@@ -193,8 +193,8 @@ async function main() {
         discountPercent: 10, // 10% discount
       },
       {
-        name: "Tênis Jordan Tatum 1 V3 Masculino",
-        slug: "tênis-jordan-tatum-1-V3-masculino",
+        name: "Bola Basquete Jordan Preto e Dourado",
+        slug: "bola-basquete-jordan-preto-dourado",
         description:
           "Jayson não tem vergonha de seu amor por fortes automóveis americanos. Há algo em seu visual atemporal que continua bonito. O Tatum 1 'Old School' não é diferente. Feito em preto elegante e cinza frio, é mais fresco do que a pintura fresca em um muscle car clássico. Acelere, pedale ao som do metal, vrum vrum - seja como for que você queira dizer, basta entrar na quadra e marcar.",
         imageURLs: [
