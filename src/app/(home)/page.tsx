@@ -35,7 +35,7 @@ export default async function Home() {
       <div className="mx-auto max-w-[1920px]">
         <PromoBanner
           className="hidden h-auto w-full lg:block"
-          src="/Banner-Ofertas.png"
+          src="/Banner-Ofertas2.png"
           alt="Até 55% de desconto só esse mês"
         />
       </div>
@@ -55,17 +55,18 @@ export default async function Home() {
         <SectionTitle>
           <Link href="/deals">Ofertas</Link>
         </SectionTitle>
-        <ProductList products={deals} />
+        <ProductList products={deals}/>
       </div>
 
       <div>
-        <PromoBanner
-          src="/banner-home-01.png"
+        <PromoBanner className="lg:px-32 px-6 py-8"
+          src="/anuncio-bola-volei.png"
           alt="Até 55% de desconto só esse mês"
+    
         />
       </div>
 
-      <div className="lg:px-32">
+      <div className="lg:px-32 py-8">
         <SectionTitle>
           <Link href="/category/futebol">Futebol</Link>
         </SectionTitle>
@@ -73,8 +74,9 @@ export default async function Home() {
       </div>
       <div>
         <PromoBanner
-          src="/banner-home-01.png"
+          src="/bannerfrete.png"
           alt="Até 55% de desconto só esse mês"
+          className="lg:px-32"
         />
       </div>
       <div className="lg:px-32">

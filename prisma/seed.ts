@@ -53,7 +53,7 @@ async function main() {
         name: "Bola Campo Bravo 70 Pro",
         slug: "bola-campo-bravo-70",
         description:
-          "Com um design moderno e durável, a Bola Campo Bravo é a escolha ideal para quem busca um alto desempenho. Seu material resistente e características de voo estáveis tornam-na perfeita para jogadas precisas. Eleve seu jogo com a Bola Puma Strike Pro!",
+          "Com um design moderno e durável, a Bola Campo Bravo é a escolha ideal para quem busca um alto desempenho. Seu material resistente e características de voo estáveis tornam-na perfeita para jogadas precisas. Eleve seu jogo com a Bola Campo Bravo 70 Pro!",
         imageURLs: [
           "https://abre.ai/fut-balls-70-pro-1",
           "https://abre.ai/fut-balls-70-pro-2",
@@ -83,6 +83,114 @@ async function main() {
         imageURLs: [
           "https://abre.ai/fut-balls-puma-1",
           "https://abre.ai/fut-balls-puma-2",
+        ],
+        basePrice: 169.99,
+        categoryId: futebolCategory.id,
+        discountPercent: 5, // 5% discount
+      },
+      {
+        name: "Bola Puma Premier League Academy",
+        slug: "bola-puma-premier-league-academy",
+        description:
+          "Você nunca para de melhorar as suas habilidades, então use a bola que trabalha tanto quanto você. Os gráficos brilhantes são fáceis de ver em campo enquanto você pratica as suas habilidades nos pés, e suas ranhuras inovadoras criam um giro consistente para aquele chute aéreo em direção ao gol.",
+        imageURLs: [
+          "https://abre.ai/fut-roupa-camiseta-c-01",
+        ],
+        basePrice: 169.99,
+        categoryId: futebolCategory.id,
+        discountPercent: 5, // 5% discount
+      },
+      {
+        name: "Bola Puma Premier League Academy",
+        slug: "bola-puma-premier-league-academy",
+        description:
+          "Você nunca para de melhorar as suas habilidades, então use a bola que trabalha tanto quanto você. Os gráficos brilhantes são fáceis de ver em campo enquanto você pratica as suas habilidades nos pés, e suas ranhuras inovadoras criam um giro consistente para aquele chute aéreo em direção ao gol.",
+        imageURLs: [
+          "https://abre.ai/fut-roupa-camiseta-c-02",
+        ],
+        basePrice: 169.99,
+        categoryId: futebolCategory.id,
+        discountPercent: 5, // 5% discount
+      },
+      {
+        name: "Bola Puma Premier League Academy",
+        slug: "bola-puma-premier-league-academy",
+        description:
+          "Você nunca para de melhorar as suas habilidades, então use a bola que trabalha tanto quanto você. Os gráficos brilhantes são fáceis de ver em campo enquanto você pratica as suas habilidades nos pés, e suas ranhuras inovadoras criam um giro consistente para aquele chute aéreo em direção ao gol.",
+        imageURLs: [
+          "https://abre.ai/fut-roupa-camiseta-c-03",
+        ],
+        basePrice: 169.99,
+        categoryId: futebolCategory.id,
+        discountPercent: 5, // 5% discount
+      },
+      {
+        name: "Bola Puma Premier League Academy",
+        slug: "bola-puma-premier-league-academy",
+        description:
+          "Você nunca para de melhorar as suas habilidades, então use a bola que trabalha tanto quanto você. Os gráficos brilhantes são fáceis de ver em campo enquanto você pratica as suas habilidades nos pés, e suas ranhuras inovadoras criam um giro consistente para aquele chute aéreo em direção ao gol.",
+        imageURLs: [
+          "https://abre.ai/fut-roupa-camiseta-c-04",
+        ],
+        basePrice: 169.99,
+        categoryId: futebolCategory.id,
+        discountPercent: 5, // 5% discount
+      },
+      {
+        name: "Bola Puma Premier League Academy",
+        slug: "bola-puma-premier-league-academy",
+        description:
+          "Você nunca para de melhorar as suas habilidades, então use a bola que trabalha tanto quanto você. Os gráficos brilhantes são fáceis de ver em campo enquanto você pratica as suas habilidades nos pés, e suas ranhuras inovadoras criam um giro consistente para aquele chute aéreo em direção ao gol.",
+        imageURLs: [
+          "https://abre.ai/fut-roupa-camiseta-c-05",
+        ],
+        basePrice: 169.99,
+        categoryId: futebolCategory.id,
+        discountPercent: 5, // 5% discount
+      },
+      {
+        name: "Bola Puma Premier League Academy",
+        slug: "bola-puma-premier-league-academy",
+        description:
+          "Você nunca para de melhorar as suas habilidades, então use a bola que trabalha tanto quanto você. Os gráficos brilhantes são fáceis de ver em campo enquanto você pratica as suas habilidades nos pés, e suas ranhuras inovadoras criam um giro consistente para aquele chute aéreo em direção ao gol.",
+        imageURLs: [
+          "https://abre.ai/fut-roupa-camiseta-d-01",
+        ],
+        basePrice: 169.99,
+        categoryId: futebolCategory.id,
+        discountPercent: 5, // 5% discount
+      },
+      {
+        name: "Bola Puma Premier League Academy",
+        slug: "bola-puma-premier-league-academy",
+        description:
+          "Você nunca para de melhorar as suas habilidades, então use a bola que trabalha tanto quanto você. Os gráficos brilhantes são fáceis de ver em campo enquanto você pratica as suas habilidades nos pés, e suas ranhuras inovadoras criam um giro consistente para aquele chute aéreo em direção ao gol.",
+        imageURLs: [
+          "https://abre.ai/fut-roupa-camiseta-d-02",
+        ],
+        basePrice: 169.99,
+        categoryId: futebolCategory.id,
+        discountPercent: 5, // 5% discount
+      },
+      {
+        name: "Bola Puma Premier League Academy",
+        slug: "bola-puma-premier-league-academy",
+        description:
+          "Você nunca para de melhorar as suas habilidades, então use a bola que trabalha tanto quanto você. Os gráficos brilhantes são fáceis de ver em campo enquanto você pratica as suas habilidades nos pés, e suas ranhuras inovadoras criam um giro consistente para aquele chute aéreo em direção ao gol.",
+        imageURLs: [
+          "https://abre.ai/fut-roupa-camiseta-paulistao-a2",
+        ],
+        basePrice: 169.99,
+        categoryId: futebolCategory.id,
+        discountPercent: 5, // 5% discount
+      },
+      {
+        name: "Bola Puma Premier League Academy",
+        slug: "bola-puma-premier-league-academy",
+        description:
+          "Você nunca para de melhorar as suas habilidades, então use a bola que trabalha tanto quanto você. Os gráficos brilhantes são fáceis de ver em campo enquanto você pratica as suas habilidades nos pés, e suas ranhuras inovadoras criam um giro consistente para aquele chute aéreo em direção ao gol.",
+        imageURLs: [
+          "https://abre.ai/fut-roupa-camiseta-paulistao-a2-branca"
         ],
         basePrice: 169.99,
         categoryId: futebolCategory.id,
@@ -273,6 +381,36 @@ async function main() {
         categoryId: voleiCategory.id,
         discountPercent: 10,
       },
+      {
+        name: "Meia Asics Basic 3pares",
+        slug: "meia-asics-basic",
+        description:
+          "O kit é composto por 3 pares de meias pretas, com calcanhar verdadeiro e cano baixo. Composição: 69% Algodão, 29% Poliamida e 2% Elastano <br>Cor: Preto, cano baixo. <br> Para manter o produto em condições perfeitas e prezar por sua durabilidade sempre olhar antes a etiqueta de cuidado e conservação que está aplicada na parte interna da peça. Abaixo alguns cuidados gerais: Não pisar na parte do calcanhar do tênis (esmagando o contraforte); Não expor o produto a lugares quentes e úmidos por períodos excessivamente longos; Jamais coloque perto de labaredas ou qualquer tipo de fogo, para evitar deformidades de materiais; Evite contato com óleo/gordura/graxa; Para Tênis, sugerimos a lavagem com produtos específicos para lavagem de calçados, com uma escova com cerdas macias em sua superfície.",
+        imageURLs: ["https://abre.ai/v-roupa-camiseta-taubate"],
+        basePrice: 359.9,
+        categoryId: voleiCategory.id,
+        discountPercent: 10,
+      },
+      {
+        name: "Meia Asics Basic 3pares",
+        slug: "meia-asics-basic",
+        description:
+          "O kit é composto por 3 pares de meias pretas, com calcanhar verdadeiro e cano baixo. Composição: 69% Algodão, 29% Poliamida e 2% Elastano <br>Cor: Preto, cano baixo. <br> Para manter o produto em condições perfeitas e prezar por sua durabilidade sempre olhar antes a etiqueta de cuidado e conservação que está aplicada na parte interna da peça. Abaixo alguns cuidados gerais: Não pisar na parte do calcanhar do tênis (esmagando o contraforte); Não expor o produto a lugares quentes e úmidos por períodos excessivamente longos; Jamais coloque perto de labaredas ou qualquer tipo de fogo, para evitar deformidades de materiais; Evite contato com óleo/gordura/graxa; Para Tênis, sugerimos a lavagem com produtos específicos para lavagem de calçados, com uma escova com cerdas macias em sua superfície.",
+        imageURLs: ["https://abre.ai/v-roupa-camiseta-taubate-02"],
+        basePrice: 359.9,
+        categoryId: voleiCategory.id,
+        discountPercent: 10,
+      },
+      {
+        name: "Meia Asics Basic 3pares",
+        slug: "meia-asics-basic",
+        description:
+          "O kit é composto por 3 pares de meias pretas, com calcanhar verdadeiro e cano baixo. Composição: 69% Algodão, 29% Poliamida e 2% Elastano <br>Cor: Preto, cano baixo. <br> Para manter o produto em condições perfeitas e prezar por sua durabilidade sempre olhar antes a etiqueta de cuidado e conservação que está aplicada na parte interna da peça. Abaixo alguns cuidados gerais: Não pisar na parte do calcanhar do tênis (esmagando o contraforte); Não expor o produto a lugares quentes e úmidos por períodos excessivamente longos; Jamais coloque perto de labaredas ou qualquer tipo de fogo, para evitar deformidades de materiais; Evite contato com óleo/gordura/graxa; Para Tênis, sugerimos a lavagem com produtos específicos para lavagem de calçados, com uma escova com cerdas macias em sua superfície.",
+        imageURLs: ["https://abre.ai/v-roupa-camiseta-farma-conde-01"],
+        basePrice: 359.9,
+        categoryId: voleiCategory.id,
+        discountPercent: 10,
+      },
     ];
     await prisma.product.createMany({
       data: volei,
@@ -385,64 +523,79 @@ async function main() {
 
     const skate = [
       {
-        name: "Tênis Nike SB Force 58 Unissex",
-        slug: "tenis-nike-sb-force-58-unissex",
-        description:
-          "A melhor e mais recente novidade a aparecer nas ruas, o Nike SB Force 58 garante a durabilidade da forma da sola com a flexibilidade de um tênis vulcanizado. Feito de lona e suede e com acabamento perfurado, todo o look é carregado com o DNA de herança do basquete.",
-        imageURLs: ["https://abre.ai/nike-sbforce-tenis"],
-        basePrice: 379.99,
-        categoryId: skateCategory.id,
-        discountPercent: 10, // 10% discount
-      },
-      {
-        name: "Tênis Nike SB Chron 2 Unissex",
-        slug: "tenis-nike-sb-chron-2-unissex",
-        description:
-          "Flexível e ventilado, o Nike SB Chron 2 é uma continuação digna de seu predecessor. O design renovado inclui atualizações na boca e no calcanhar para um ajuste aprimorado, mantendo o conforto e o desempenho que você espera de um Nike SB.",
-        imageURLs: ["https://abre.ai/nike-sbchron-tenis"],
-        basePrice: 299.99,
-        categoryId: skateCategory.id,
-        discountPercent: 5, // 10% discount
-      },
-      {
-        name: "Tênis Nike SB Force 58 Premium Unissex",
-        slug: "tenis-nike-sb-force-58-premium-unissex",
-        description:
-          "A maior e mais recente inovação das ruas, o Nike SB Force 58 Premium oferece a durabilidade da forma da sola com a flexibilidade de um tênis vulcanizado. Feito com couro macio, flexível e acabamento com perfurações, o look todo é infundido com o DNA do basquete tradicional.",
-        imageURLs: ["https://abre.ai/nike-sbforce58-tenis"],
-        basePrice: 409.99,
-        categoryId: skateCategory.id,
-        discountPercent: 15, // 10% discount
-      },
-      {
-        name: "Tênis Nike SB Chron 2 Canvas Unissex",
-        slug: "tenis-nike-sb-chron-2-canvas-unissex",
-        description:
-          "O Nike SB Chron 2 Canvas é o mais novo membro da família Chron. O design renovado inclui atualizações na boca e no calcanhar para um ajuste aprimorado, mantendo o conforto e o desempenho que você espera de um Nike SB.",
-        imageURLs: ["https://abre.ai/nike-sbchon2-tenis"],
-        basePrice: 399.99,
-        categoryId: skateCategory.id,
-        discountPercent: 5, // 10% discount
-      },
-      {
-        name: "Tênis Nike SB Verona Slip Premium Unissex",
-        slug: "tenis-nike-sb-verona-slip-premium-unissex",
-        description:
-          "Este Verona traz de volta o estilo slip on, agora com suede premium na ponta e na língua. A parte de trás do tênis é feita em tecido ventilado para criar uma sensação arejada e descontraída.",
-        imageURLs: ["https://abre.ai/nike-verona-tenis"],
+        name: "Skate Preto Standard",
+        slug: "skate-preto-standard",
+        description: "O Skate Thunderbolt é a escolha perfeita para entusiastas do skate. Com um design moderno e durável, este skate proporciona estabilidade e manobrabilidade ideais para executar truques radicais. Construído com madeira de alta qualidade e componentes resistentes, o Skate Thunderbolt oferece uma experiência de patinação emocionante para skatistas de todos os níveis.",
+        imageURLs: ["https://abre.ai/sk-skate-black",
+        "https://abre.ai/sk-skate-black-02"],
         basePrice: 429.99,
         categoryId: skateCategory.id,
-        discountPercent: 0, // 10% discount
+        discountPercent: 0,
       },
       {
-        name: "Tênis Nike SB Chron 2 Slip Unissex",
-        slug: "tenis-nike-sb-chron-2-slip-unissex",
-        description:
-          "O Nike SB Chron 2 Slip é o mais novo membro da família Chron. O design renovado inclui atualizações na boca e no calcanhar para um ajuste aprimorado, mantendo o conforto e o desempenho que você espera de um Nike SB.",
-        imageURLs: ["https://abre.ai/nike-chronslip-tenis"],
+        name: "Roda Skate Rolamento",
+        slug: "roda-skate-rolamento",
+        description: "As Rodas de Skate TurboSpeed são projetadas para proporcionar velocidade e aderência superiores em qualquer superfície. Feitas de poliuretano de alta qualidade e com um padrão de superfície especial, essas rodas oferecem um desempenho excepcional. Seja para manobras em skate parks ou para passeios casuais, as Rodas TurboSpeed oferecem a combinação perfeita de velocidade e controle.",
+        imageURLs: ["https://abre.ai/sk-skate-roda-01",
+        "https://abre.ai/sk-skate-roda-02",
+        "https://abre.ai/sk-skate-roda-03"],
         basePrice: 429.99,
         categoryId: skateCategory.id,
-        discountPercent: 0, // 10% discount
+        discountPercent: 0,
+      },
+      {
+        name: "Capacete de Proteção Para Skate Branco",
+        slug: "capacete-proteção-skate-branco",
+        description: "O Capacete ProShield oferece segurança e estilo enquanto você anda de skate. Construído com materiais de alta resistência e um design aerodinâmico, este capacete oferece proteção contra impactos, proporcionando conforto e confiança. Com ventilação ajustável e um ajuste perfeito, o Capacete ProShield é essencial para skatistas preocupados com segurança.",
+        imageURLs: ["https://abre.ai/sk-capacete-branco-01",
+        "https://abre.ai/sk-capacete-branco-02",
+        "https://abre.ai/sk-capacete-branco-03",
+        "https://abre.ai/sk-capacete-branco-04"],
+        basePrice: 429.99,
+        categoryId: skateCategory.id,
+        discountPercent: 0,
+      },
+      {
+        name: "Joelheira de Proteção Para Skate",
+        slug: "joelheira-protecao-skate",
+        description: "A Joelheira ArmaduraX é uma proteção robusta para os joelhos durante a prática de skate. Com uma estrutura durável e acolchoamento interno confortável, oferece proteção essencial contra impactos. Com ajustes de velcro e um design ergonômico, a Joelheira ArmaduraX garante segurança sem comprometer a mobilidade durante as manobras.",
+        imageURLs: ["https://abre.ai/sk-joelheira-1",
+        "https://abre.ai/sk-joelheira-2",
+        "https://abre.ai/sk-joelheira-3"],
+        basePrice: 429.99,
+        categoryId: skateCategory.id,
+        discountPercent: 0,
+      },
+      {
+        name: "Truck Para Skate Profissional",
+        slug: "",
+        description: "O Truck BlastMaster é essencial para um desempenho suave e estável no skate. Fabricado com materiais robustos e eixos duráveis, este truck oferece resistência e precisão em cada curva e manobra. Com ajustes precisos, proporciona o equilíbrio perfeito entre estabilidade e capacidade de manobra para uma experiência de skate excepcional.",
+        imageURLs: ["https://abre.ai/sk-truck-01",
+        "https://abre.ai/sk-truck-02",
+        "https://abre.ai/sk-truck-03",
+        "https://abre.ai/sk-truck-04"],
+        basePrice: 429.99,
+        categoryId: skateCategory.id,
+        discountPercent: 0,
+      },
+      {
+        name: "Skate Customizado de Halloween",
+        slug: "skate-halloween",
+        description: "O Skate Midnight Reaper é um skate exclusivo para celebrar o Halloween. Com um visual único e detalhes temáticos assustadores, este skate proporciona uma experiência emocionante para os amantes do skate e do Halloween. Projetado com materiais duráveis e uma estética sombria, o Skate Midnight Reaper é perfeito para quem deseja se divertir com estilo nesta época assustadora do ano.",
+        imageURLs: ["https://abre.ai/sk-skate-halloween-01",
+        "https://abre.ai/sk-skate-halloween-02"],
+        basePrice: 429.99,
+        categoryId: skateCategory.id,
+        discountPercent: 0,
+      },
+      {
+        name: "Lixa Roxa Skate",
+        slug: "sk-lixa-roxa",
+        description: "A Lixa de Skate PurpleGrip é a escolha ideal para skatistas que buscam aderência e estilo. Com sua cor vibrante roxa, esta lixa oferece excelente aderência para os pés durante as manobras, garantindo estabilidade e controle sobre o skate. Fabricada com material de alta qualidade, a Lixa PurpleGrip possui uma superfície durável que mantém sua aderência mesmo em condições adversas. Além de proporcionar uma excelente tração, seu tom roxo vibrante adiciona um toque de estilo e personalidade ao seu skate, tornando-a uma escolha atraente para aqueles que buscam funcionalidade e estética.",
+        imageURLs: ["https://abre.ai/sk-lixa-roxa"],
+        basePrice: 429.99,
+        categoryId: skateCategory.id,
+        discountPercent: 0,
       },
     ];
     await prisma.product.createMany({
@@ -762,7 +915,7 @@ async function main() {
         name: "Shorts Nike Chicago Bulls Courtside Masculino",
         slug: "shorts-nike-chicago-bulls-courtside-masculino",
         description:
-          "Vá para a quadra com o conforto respirável desse shorts leve Chicago Bulls. Com as cores do time e detalhes do logo em um design espaçoso, ele mostra a lealdade ao seu time enquanto permite que você se mova livremente enquanto dribla, rola e chuta.",
+          "Os Shorts Chicago Bulls Authentic são um tributo à lendária equipe da NBA. Com o icônico logotipo do Chicago Bulls, estes shorts oferecem estilo e conforto. Feitos com tecido respirável e corte moderno, proporcionam liberdade de movimento para jogar ou exibir seu amor pelo time, tanto nas quadras quanto fora delas. Vista-se com a tradição e a energia do Chicago Bulls!",
         imageURLs: [
           "https://abre.ai/bk-roupa-bermuda-v-01",
           "https://abre.ai/bk-roupa-bermuda-v-02",
@@ -776,7 +929,7 @@ async function main() {
         name: "Shorts Nike Los Angeles Lakers Icon",
         slug: "shorts-nike-los-angeles-lakers-icon",
         description:
-          "Inspirado no shorts autÃªntico da NBA, o Shorts Nike NBA Masculino Los Angeles Lakers Icon Edition Swingman apresenta tecido duplo, que absorve o suor e bolsos laterais para armazenamento de fÃ¡cil acesso, co detalhes que combinam com o visual de quadra do seu time.",
+          "Os Shorts Chicago Bulls NBA Edition são uma declaração de estilo para os fãs apaixonados. Apresentando cores vibrantes e o logotipo clássico do Chicago Bulls, estes shorts oferecem um visual autêntico da NBA. Com tecido leve e confortável, são ideais para prática esportiva ou momentos casuais. Mostre seu apoio ao time com estes shorts emblemáticos do Chicago Bulls.",
         imageURLs: [
           "https://abre.ai/bk-roupa-bermuda-m-01",
           "https://abre.ai/bk-roupa-bermuda-m-02",
@@ -786,10 +939,10 @@ async function main() {
         discountPercent: 10, // 10% discount
       },
       {
-        name: "Regata Nike Los Angeles Lakers LeBron James Edição Especial Masculina",
-        slug: "regata-nike-los-angeles-lakers-leBron-james-edição-especial-masculina",
+        name: "Moletom Nike LeBron James Edição Especial Masculina",
+        slug: "moletom-nike-leBron-james-edição-especial-masculina",
         description:
-          "MVP. Campeão. Futuro membro do Hall da Fama. A nossa Série Select homenageia LeBron James como uma lenda viva da NBA. O design tingido distinto desta camisa é exclusivo de LeBron, celebrando tudo o que o torna 1 de 1 na quadra.",
+          "O Moletom NBA Team Edition é uma peça essencial para os amantes da liga. Com um design clássico e confortável, este moletom apresenta o logotipo oficial da NBA, oferecendo estilo e aquecimento. Feito com tecido macio e durável, é perfeito para demonstrar seu apoio ao basquete ou para uso diário, mantendo você confortável e elegante em qualquer situação.",
         imageURLs: [
           "https://abre.ai/bk-roupa-moletom-01",
           "https://abre.ai/bk-roupa-moletom-02",
@@ -802,7 +955,7 @@ async function main() {
         name: "Blusão Jordan Zion Dri-FIT Crossover Masculino",
         slug: "blusão-jordan-zion-dri-fit-crossover-masculino",
         description:
-          "Dá uma conferida nesse moletom feito para os seus treinos rígidos. Tecido Dri-FIT confortável e macio mantém você seco durante treinos, enquanto os designs Zion mantêm seu visual fresco",
+          "A Regata Chicago Bulls é um símbolo de paixão e orgulho pelo lendário time da NBA. Com o logotipo icônico e cores distintas, esta regata oferece estilo e conforto. Feita com tecido macio e respirável, é uma escolha perfeita para mostrar seu apoio aos Bulls em dias quentes ou para complementar seu estilo esportivo. Mostre sua devoção ao Chicago Bulls com esta regata autêntica.",
         imageURLs: [
           "https://abre.ai/bk-roupa-regata-b-01",
           "https://abre.ai/bk-roupa-regata-b-02",
@@ -815,7 +968,7 @@ async function main() {
         name: "Camiseta Nike NBA Team 31 Masculina",
         slug: "camiseta-nike-nba-team-31-masculina",
         description:
-          "Fãs da NBA, essa é pra vocês. Mostre o seu amor pela liga com a Camiseta Team 31. O algodão macio e o caimento tradicional mantêm você confortável enquanto torce pelo seu time favorito.",
+          "A Regata Brooklyn Nets é uma representação da determinação e estilo desta equipe icônica da NBA. Com o logotipo distinto dos Nets, esta regata oferece leveza e conforto para qualquer ocasião. Feita com material respirável e um corte moderno, esta regata é perfeita para exibir seu apoio ao Brooklyn Nets com orgulho, enquanto mantém um estilo urbano e elegante.",
         imageURLs: [
           "https://abre.ai/bk-roupa-regata-p-01",
           "https://abre.ai/bk-roupa-regata-p-02",

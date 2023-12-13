@@ -11,7 +11,7 @@ interface ProductItemProps {
 const ProductItem = ({ product }: ProductItemProps) => {
   return (
     <Link href={`/product/${product.slug}`}>
-      <div className="flex flex-col justify-center gap-4 max-w-[280px]">
+      <div className="flex flex-col justify-center gap-4 max-w-[180px]">
         <div className="relative flex gap-8 h-[280px] w-[180px] items-center justify-center rounded-lg bg-accent">
           <Image
             src={product.imageURLs[0]}
