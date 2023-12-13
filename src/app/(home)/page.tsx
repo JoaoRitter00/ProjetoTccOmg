@@ -60,7 +60,7 @@ export default async function Home() {
 
       <div>
         <PromoBanner className="lg:px-32 px-6 py-8"
-          src="/bannerfrete.png"
+          src="/bannerfrete1.png"
           alt="Até 55% de desconto só esse mês"
     
         />
