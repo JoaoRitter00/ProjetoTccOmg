@@ -89,10 +89,10 @@ async function main() {
         discountPercent: 5, // 5% discount
       },
       {
-        name: "Bola Puma Premier League Academy",
-        slug: "bola-puma-premier-league-academy",
+        name: "Camisa Vitória Futebol",
+        slug: "camisa-vitoria",
         description:
-          "Você nunca para de melhorar as suas habilidades, então use a bola que trabalha tanto quanto você. Os gráficos brilhantes são fáceis de ver em campo enquanto você pratica as suas habilidades nos pés, e suas ranhuras inovadoras criam um giro consistente para aquele chute aéreo em direção ao gol.",
+          "A camisa deste time da segunda divisão celebra a paixão e a perseverança do clube em busca da ascensão. Com um design simples, porém marcante, esta camisa reflete a identidade do time e o apoio dos torcedores. Feita com tecido confortável e resistente, esta camisa representa a determinação e a luta contínua pela excelência, oferecendo aos fãs a oportunidade de mostrar seu apoio inabalável.",
         imageURLs: [
           "https://abre.ai/fut-roupa-camiseta-c-01",
         ],
@@ -101,8 +101,8 @@ async function main() {
         discountPercent: 5, // 5% discount
       },
       {
-        name: "Bola Puma Premier League Academy",
-        slug: "bola-puma-premier-league-academy",
+        name: "Camisa Treze Futebol",
+        slug: "camisa-treze-futebol",
         description:
           "Você nunca para de melhorar as suas habilidades, então use a bola que trabalha tanto quanto você. Os gráficos brilhantes são fáceis de ver em campo enquanto você pratica as suas habilidades nos pés, e suas ranhuras inovadoras criam um giro consistente para aquele chute aéreo em direção ao gol.",
         imageURLs: [
@@ -113,8 +113,8 @@ async function main() {
         discountPercent: 5, // 5% discount
       },
       {
-        name: "Bola Puma Premier League Academy",
-        slug: "bola-puma-premier-league-academy",
+        name: "Camisa Jacuipense Futebol",
+        slug: "camisa-jacuipense-futebol",
         description:
           "Você nunca para de melhorar as suas habilidades, então use a bola que trabalha tanto quanto você. Os gráficos brilhantes são fáceis de ver em campo enquanto você pratica as suas habilidades nos pés, e suas ranhuras inovadoras criam um giro consistente para aquele chute aéreo em direção ao gol.",
         imageURLs: [
@@ -125,8 +125,8 @@ async function main() {
         discountPercent: 5, // 5% discount
       },
       {
-        name: "Bola Puma Premier League Academy",
-        slug: "bola-puma-premier-league-academy",
+        name: "Camisa Londrina Futebol",
+        slug: "camisa-londrina-futebol",
         description:
           "Você nunca para de melhorar as suas habilidades, então use a bola que trabalha tanto quanto você. Os gráficos brilhantes são fáceis de ver em campo enquanto você pratica as suas habilidades nos pés, e suas ranhuras inovadoras criam um giro consistente para aquele chute aéreo em direção ao gol.",
         imageURLs: [
@@ -137,8 +137,8 @@ async function main() {
         discountPercent: 5, // 5% discount
       },
       {
-        name: "Bola Puma Premier League Academy",
-        slug: "bola-puma-premier-league-academy",
+        name: "Camisa Manaus Futebol",
+        slug: "camisa-manaus-futebol",
         description:
           "Você nunca para de melhorar as suas habilidades, então use a bola que trabalha tanto quanto você. Os gráficos brilhantes são fáceis de ver em campo enquanto você pratica as suas habilidades nos pés, e suas ranhuras inovadoras criam um giro consistente para aquele chute aéreo em direção ao gol.",
         imageURLs: [
@@ -149,8 +149,8 @@ async function main() {
         discountPercent: 5, // 5% discount
       },
       {
-        name: "Bola Puma Premier League Academy",
-        slug: "bola-puma-premier-league-academy",
+        name: "Camisa Vila Nova Futebol",
+        slug: "camisa-vila-nova-futebol",
         description:
           "Você nunca para de melhorar as suas habilidades, então use a bola que trabalha tanto quanto você. Os gráficos brilhantes são fáceis de ver em campo enquanto você pratica as suas habilidades nos pés, e suas ranhuras inovadoras criam um giro consistente para aquele chute aéreo em direção ao gol.",
         imageURLs: [
@@ -161,8 +161,8 @@ async function main() {
         discountPercent: 5, // 5% discount
       },
       {
-        name: "Bola Puma Premier League Academy",
-        slug: "bola-puma-premier-league-academy",
+        name: "Camisa Porto Rico Futebol",
+        slug: "camisa-porto-rico-futebol",
         description:
           "Você nunca para de melhorar as suas habilidades, então use a bola que trabalha tanto quanto você. Os gráficos brilhantes são fáceis de ver em campo enquanto você pratica as suas habilidades nos pés, e suas ranhuras inovadoras criam um giro consistente para aquele chute aéreo em direção ao gol.",
         imageURLs: [
@@ -173,8 +173,8 @@ async function main() {
         discountPercent: 5, // 5% discount
       },
       {
-        name: "Bola Puma Premier League Academy",
-        slug: "bola-puma-premier-league-academy",
+        name: "Camisa XV de Novembro Futebol",
+        slug: "camisa-quinze-novembro-futebol",
         description:
           "Você nunca para de melhorar as suas habilidades, então use a bola que trabalha tanto quanto você. Os gráficos brilhantes são fáceis de ver em campo enquanto você pratica as suas habilidades nos pés, e suas ranhuras inovadoras criam um giro consistente para aquele chute aéreo em direção ao gol.",
         imageURLs: [
@@ -185,8 +185,8 @@ async function main() {
         discountPercent: 5, // 5% discount
       },
       {
-        name: "Bola Puma Premier League Academy",
-        slug: "bola-puma-premier-league-academy",
+        name: "Camisa Internacional SP Futebol",
+        slug: "camisa-internacional-sp-futebol",
         description:
           "Você nunca para de melhorar as suas habilidades, então use a bola que trabalha tanto quanto você. Os gráficos brilhantes são fáceis de ver em campo enquanto você pratica as suas habilidades nos pés, e suas ranhuras inovadoras criam um giro consistente para aquele chute aéreo em direção ao gol.",
         imageURLs: [
@@ -382,8 +382,8 @@ async function main() {
         discountPercent: 10,
       },
       {
-        name: "Meia Asics Basic 3pares",
-        slug: "meia-asics-basic",
+        name: "Camisa Taubaté Voleibol",
+        slug: "camisa-taubate-voleibol",
         description:
           "O kit é composto por 3 pares de meias pretas, com calcanhar verdadeiro e cano baixo. Composição: 69% Algodão, 29% Poliamida e 2% Elastano <br>Cor: Preto, cano baixo. <br> Para manter o produto em condições perfeitas e prezar por sua durabilidade sempre olhar antes a etiqueta de cuidado e conservação que está aplicada na parte interna da peça. Abaixo alguns cuidados gerais: Não pisar na parte do calcanhar do tênis (esmagando o contraforte); Não expor o produto a lugares quentes e úmidos por períodos excessivamente longos; Jamais coloque perto de labaredas ou qualquer tipo de fogo, para evitar deformidades de materiais; Evite contato com óleo/gordura/graxa; Para Tênis, sugerimos a lavagem com produtos específicos para lavagem de calçados, com uma escova com cerdas macias em sua superfície.",
         imageURLs: ["https://abre.ai/v-roupa-camiseta-taubate"],
@@ -392,8 +392,8 @@ async function main() {
         discountPercent: 10,
       },
       {
-        name: "Meia Asics Basic 3pares",
-        slug: "meia-asics-basic",
+        name: "Camisa Taubaté Alt Voleibol",
+        slug: "camisa-taubate-alt-voleibol",
         description:
           "O kit é composto por 3 pares de meias pretas, com calcanhar verdadeiro e cano baixo. Composição: 69% Algodão, 29% Poliamida e 2% Elastano <br>Cor: Preto, cano baixo. <br> Para manter o produto em condições perfeitas e prezar por sua durabilidade sempre olhar antes a etiqueta de cuidado e conservação que está aplicada na parte interna da peça. Abaixo alguns cuidados gerais: Não pisar na parte do calcanhar do tênis (esmagando o contraforte); Não expor o produto a lugares quentes e úmidos por períodos excessivamente longos; Jamais coloque perto de labaredas ou qualquer tipo de fogo, para evitar deformidades de materiais; Evite contato com óleo/gordura/graxa; Para Tênis, sugerimos a lavagem com produtos específicos para lavagem de calçados, com uma escova com cerdas macias em sua superfície.",
         imageURLs: ["https://abre.ai/v-roupa-camiseta-taubate-02"],
@@ -402,8 +402,8 @@ async function main() {
         discountPercent: 10,
       },
       {
-        name: "Meia Asics Basic 3pares",
-        slug: "meia-asics-basic",
+        name: "Camisa Farma Conde São José Voleibol",
+        slug: "camisa-sao-jose-voleibol",
         description:
           "O kit é composto por 3 pares de meias pretas, com calcanhar verdadeiro e cano baixo. Composição: 69% Algodão, 29% Poliamida e 2% Elastano <br>Cor: Preto, cano baixo. <br> Para manter o produto em condições perfeitas e prezar por sua durabilidade sempre olhar antes a etiqueta de cuidado e conservação que está aplicada na parte interna da peça. Abaixo alguns cuidados gerais: Não pisar na parte do calcanhar do tênis (esmagando o contraforte); Não expor o produto a lugares quentes e úmidos por períodos excessivamente longos; Jamais coloque perto de labaredas ou qualquer tipo de fogo, para evitar deformidades de materiais; Evite contato com óleo/gordura/graxa; Para Tênis, sugerimos a lavagem com produtos específicos para lavagem de calçados, com uma escova com cerdas macias em sua superfície.",
         imageURLs: ["https://abre.ai/v-roupa-camiseta-farma-conde-01"],
