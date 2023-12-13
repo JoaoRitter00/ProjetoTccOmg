@@ -386,17 +386,7 @@ async function main() {
         slug: "camisa-taubate-voleibol",
         description:
           "O kit é composto por 3 pares de meias pretas, com calcanhar verdadeiro e cano baixo. Composição: 69% Algodão, 29% Poliamida e 2% Elastano <br>Cor: Preto, cano baixo. <br> Para manter o produto em condições perfeitas e prezar por sua durabilidade sempre olhar antes a etiqueta de cuidado e conservação que está aplicada na parte interna da peça. Abaixo alguns cuidados gerais: Não pisar na parte do calcanhar do tênis (esmagando o contraforte); Não expor o produto a lugares quentes e úmidos por períodos excessivamente longos; Jamais coloque perto de labaredas ou qualquer tipo de fogo, para evitar deformidades de materiais; Evite contato com óleo/gordura/graxa; Para Tênis, sugerimos a lavagem com produtos específicos para lavagem de calçados, com uma escova com cerdas macias em sua superfície.",
-        imageURLs: ["https://abre.ai/v-roupa-camiseta-taubate"],
-        basePrice: 359.9,
-        categoryId: voleiCategory.id,
-        discountPercent: 10,
-      },
-      {
-        name: "Camisa Taubaté Alt Voleibol",
-        slug: "camisa-taubate-alt-voleibol",
-        description:
-          "O kit é composto por 3 pares de meias pretas, com calcanhar verdadeiro e cano baixo. Composição: 69% Algodão, 29% Poliamida e 2% Elastano <br>Cor: Preto, cano baixo. <br> Para manter o produto em condições perfeitas e prezar por sua durabilidade sempre olhar antes a etiqueta de cuidado e conservação que está aplicada na parte interna da peça. Abaixo alguns cuidados gerais: Não pisar na parte do calcanhar do tênis (esmagando o contraforte); Não expor o produto a lugares quentes e úmidos por períodos excessivamente longos; Jamais coloque perto de labaredas ou qualquer tipo de fogo, para evitar deformidades de materiais; Evite contato com óleo/gordura/graxa; Para Tênis, sugerimos a lavagem com produtos específicos para lavagem de calçados, com uma escova com cerdas macias em sua superfície.",
-        imageURLs: ["https://abre.ai/v-roupa-camiseta-taubate-02"],
+        imageURLs: ["https://abre.ai/v-roupa-camiseta-taubate", "https://abre.ai/v-roupa-camiseta-taubate-02"],
         basePrice: 359.9,
         categoryId: voleiCategory.id,
         discountPercent: 10,

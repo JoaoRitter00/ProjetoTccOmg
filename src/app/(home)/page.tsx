@@ -59,11 +59,12 @@ export default async function Home() {
       </div>
 
       <div>
-        <PromoBanner className="lg:px-32 px-6 py-8"
-          src="/bannerfrete1.png"
+        <PromoBanner className="lg:px-32 lg:px-6 py-6 lg:h-[500px]"
+          src="/fretewow.png"
           alt="Até 55% de desconto só esse mês"
     
         />
+        
       </div>
 
       <div className="lg:px-32 py-8">
@@ -76,7 +77,7 @@ export default async function Home() {
         <PromoBanner
           src="/anuncio-bola-volei.png"
           alt="Até 55% de desconto só esse mês"
-          className="lg:px-32"
+          className="lg:px-32 px-6 py-6"
         />
       </div>
       <div className="lg:px-32">
