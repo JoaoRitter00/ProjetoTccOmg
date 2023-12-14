@@ -254,7 +254,7 @@ async function main() {
       },
       {
         name: "Bola Molten 5000",
-        slug: "tornozeleira-compressão-ortopédica",
+        slug: "bola-molten-5000",
         description:
           "Combinando durabilidade e desempenho de elite, a Bola Molten 5000 é ideal para jogadores que buscam qualidade superior. Seu design avançado oferece um toque suave e controlado. Domine a quadra com a Bola Molten 5000!",
         imageURLs: [
@@ -295,20 +295,6 @@ async function main() {
         discountPercent: 15, // 15% discount
       },
       {
-        name: "Bola de Volei Molten V5M3500 Volleyball T5",
-        slug: "bola-de-volei-molten-v5m3500-volleyball-t5",
-        description:
-          "Excelente bola de escola / clube / jogo / treino, revestida em PU (Poliuretano) material resistente e durável . À prova d'água. Bexiga interna em Butil laminado de dupla camada. <br>Tamanho e peso oficial <br>Modalidade <br>Vôlei <br>Indicação de Uso <br>Interno/Externo <br>Uso pretendido <br>Treino <br>Certificado <br>Reconhecida internacionalmente <br>Grupo de idade <br>Estudantes do Ensino médio e acima <br>Material da Superfície <br>PU <br>Bexiga Inter <br>Butílica <br>Tamanho <br>5 <br>Circunferência <br>650~670mm <br>Peso <br>260~280g <br>Cor <br>Branco/Verde/Vermelho <br>Pressão do ar <br>4.26-4.63 lbs/psi <br>EAN <br>4905741795672 <br>Código do Produto <br>V5M3500",
-        imageURLs: [
-          "https://abre.ai/v-acessorios-joelheira-p-01",
-          "https://abre.ai/v-acessorios-joelheira-p-02",
-          "https://abre.ai/v-acessorios-joelheira-p-03",
-        ],
-        basePrice: 359.9,
-        categoryId: voleiCategory.id,
-        discountPercent: 10,
-      },
-      {
         name: "Joelheira Asics Profissional",
         slug: "joelheira-asics-profissional",
         description:
@@ -337,7 +323,7 @@ async function main() {
       },
       {
         name: "Tornozeleira Ortopédica Volei",
-        slug: "tornozeleira-ortopédica-volei",
+        slug: "tornozeleira-ortopedica-volei",
         description:
           "A Tornozeleira Ortopédica ComfortFlex é um suporte de alta qualidade projetado para oferecer estabilidade e conforto durante a recuperação de lesões no tornozelo. Feita com materiais respiráveis e leves, esta tornozeleira proporciona suporte sem restringir os movimentos naturais.",
         imageURLs: [
