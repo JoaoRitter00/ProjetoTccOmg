@@ -367,7 +367,7 @@ async function main() {
         description:
           "A Rede de Vôlei Profissional EliteX é uma escolha premium para jogadores sérios e entusiastas do voleibol. Construída com materiais de alta qualidade e durabilidade, esta rede oferece desempenho superior em todas as partidas.",
         imageURLs: ["https://abre.ai/v-acessorios-rede"],
-        basePrice: 359.9,
+        basePrice: 19.9,
         categoryId: voleiCategory.id,
         discountPercent: 10,
       },
@@ -377,7 +377,7 @@ async function main() {
         description:
           "O kit é composto por 3 pares de meias pretas, com calcanhar verdadeiro e cano baixo. Composição: 69% Algodão, 29% Poliamida e 2% Elastano <br>Cor: Preto, cano baixo. <br> Para manter o produto em condições perfeitas e prezar por sua durabilidade sempre olhar antes a etiqueta de cuidado e conservação que está aplicada na parte interna da peça. Abaixo alguns cuidados gerais: Não pisar na parte do calcanhar do tênis (esmagando o contraforte); Não expor o produto a lugares quentes e úmidos por períodos excessivamente longos; Jamais coloque perto de labaredas ou qualquer tipo de fogo, para evitar deformidades de materiais; Evite contato com óleo/gordura/graxa; Para Tênis, sugerimos a lavagem com produtos específicos para lavagem de calçados, com uma escova com cerdas macias em sua superfície.",
         imageURLs: ["https://abre.ai/v-acessorios-meia"],
-        basePrice: 359.9,
+        basePrice: 59.9,
         categoryId: voleiCategory.id,
         discountPercent: 10,
       },
@@ -385,7 +385,7 @@ async function main() {
         name: "Camisa Taubaté Voleibol",
         slug: "camisa-taubate-voleibol",
         description:
-          "O kit é composto por 3 pares de meias pretas, com calcanhar verdadeiro e cano baixo. Composição: 69% Algodão, 29% Poliamida e 2% Elastano <br>Cor: Preto, cano baixo. <br> Para manter o produto em condições perfeitas e prezar por sua durabilidade sempre olhar antes a etiqueta de cuidado e conservação que está aplicada na parte interna da peça. Abaixo alguns cuidados gerais: Não pisar na parte do calcanhar do tênis (esmagando o contraforte); Não expor o produto a lugares quentes e úmidos por períodos excessivamente longos; Jamais coloque perto de labaredas ou qualquer tipo de fogo, para evitar deformidades de materiais; Evite contato com óleo/gordura/graxa; Para Tênis, sugerimos a lavagem com produtos específicos para lavagem de calçados, com uma escova com cerdas macias em sua superfície.",
+          "A Camisa de Vôlei ProFit é uma peça essencial para os entusiastas do esporte. Com um design ergonômico e moderno, esta camisa oferece conforto e desempenho durante as partidas. Feita com tecido respirável de alta qualidade, proporciona liberdade de movimento para movimentos ágeis e precisos na quadra.Seu corte ajustado permite uma sensação de suporte, enquanto os tecidos de secagem rápida ajudam a manter o corpo seco e fresco durante as atividades intensas. Além disso, a camisa apresenta costuras reforçadas para garantir durabilidade e resistência. Com um estilo versátil e disponível em várias cores vibrantes, a Camisa ProFit não só oferece desempenho de alto nível, mas também permite que os jogadores se expressem com estilo dentro e fora da quadra. Ideal para atletas comprometidos que buscam qualidade e conforto em sua vestimenta esportiva",
         imageURLs: ["https://abre.ai/v-roupa-camiseta-taubate", "https://abre.ai/v-roupa-camiseta-taubate-02"],
         basePrice: 359.9,
         categoryId: voleiCategory.id,
@@ -395,7 +395,7 @@ async function main() {
         name: "Camisa Farma Conde São José Voleibol",
         slug: "camisa-sao-jose-voleibol",
         description:
-          "O kit é composto por 3 pares de meias pretas, com calcanhar verdadeiro e cano baixo. Composição: 69% Algodão, 29% Poliamida e 2% Elastano <br>Cor: Preto, cano baixo. <br> Para manter o produto em condições perfeitas e prezar por sua durabilidade sempre olhar antes a etiqueta de cuidado e conservação que está aplicada na parte interna da peça. Abaixo alguns cuidados gerais: Não pisar na parte do calcanhar do tênis (esmagando o contraforte); Não expor o produto a lugares quentes e úmidos por períodos excessivamente longos; Jamais coloque perto de labaredas ou qualquer tipo de fogo, para evitar deformidades de materiais; Evite contato com óleo/gordura/graxa; Para Tênis, sugerimos a lavagem com produtos específicos para lavagem de calçados, com uma escova com cerdas macias em sua superfície.",
+          "A Camisa de Vôlei EliteXcel é um exemplo de elegância e desempenho. Projetada para atender às demandas do esporte, esta camisa combina estilo e funcionalidade. Feita com um tecido leve e respirável, proporciona conforto durante toda a partida, permitindo uma ampla amplitude de movimentos. Seu design ergonômico e ajuste preciso oferecem suporte aos atletas, mantendo-os frescos e secos mesmo nos momentos mais intensos do jogo. Com tecnologia de absorção de umidade, a Camisa EliteXcel ajuda a manter a pele seca, garantindo conforto durante toda a partida. Além disso, esta camisa é reconhecida por seu estilo moderno e elegante, disponível em diversas cores vibrantes para complementar o estilo pessoal de cada jogador. Seja para competições ou treinos, a Camisa EliteXcel é a escolha ideal para os jogadores que buscam excelência e conforto no vôlei.",
         imageURLs: ["https://abre.ai/v-roupa-camiseta-farma-conde-01"],
         basePrice: 359.9,
         categoryId: voleiCategory.id,
