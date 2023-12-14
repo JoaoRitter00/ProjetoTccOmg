@@ -253,7 +253,7 @@ async function main() {
         discountPercent: 5, // 5% discount
       },
       {
-        name: "Bola Molter 5000",
+        name: "Bola Molten 5000",
         slug: "tornozeleira-compressão-ortopédica",
         description:
           "Combinando durabilidade e desempenho de elite, a Bola Molten 5000 é ideal para jogadores que buscam qualidade superior. Seu design avançado oferece um toque suave e controlado. Domine a quadra com a Bola Molten 5000!",
@@ -296,7 +296,7 @@ async function main() {
       },
       {
         name: "Bola de Volei Molten V5M3500 Volleyball T5",
-        slug: "bola-de-volei-moltenv-v5m3500-volleyball-t5",
+        slug: "bola-de-volei-molten-v5m3500-volleyball-t5",
         description:
           "Excelente bola de escola / clube / jogo / treino, revestida em PU (Poliuretano) material resistente e durável . À prova d'água. Bexiga interna em Butil laminado de dupla camada. <br>Tamanho e peso oficial <br>Modalidade <br>Vôlei <br>Indicação de Uso <br>Interno/Externo <br>Uso pretendido <br>Treino <br>Certificado <br>Reconhecida internacionalmente <br>Grupo de idade <br>Estudantes do Ensino médio e acima <br>Material da Superfície <br>PU <br>Bexiga Inter <br>Butílica <br>Tamanho <br>5 <br>Circunferência <br>650~670mm <br>Peso <br>260~280g <br>Cor <br>Branco/Verde/Vermelho <br>Pressão do ar <br>4.26-4.63 lbs/psi <br>EAN <br>4905741795672 <br>Código do Produto <br>V5M3500",
         imageURLs: [
@@ -375,7 +375,7 @@ async function main() {
         name: "Meia Asics Basic 3pares",
         slug: "meia-asics-basic",
         description:
-          "O kit é composto por 3 pares de meias pretas, com calcanhar verdadeiro e cano baixo. Composição: 69% Algodão, 29% Poliamida e 2% Elastano <br>Cor: Preto, cano baixo. <br> Para manter o produto em condições perfeitas e prezar por sua durabilidade sempre olhar antes a etiqueta de cuidado e conservação que está aplicada na parte interna da peça. Abaixo alguns cuidados gerais: Não pisar na parte do calcanhar do tênis (esmagando o contraforte); Não expor o produto a lugares quentes e úmidos por períodos excessivamente longos; Jamais coloque perto de labaredas ou qualquer tipo de fogo, para evitar deformidades de materiais; Evite contato com óleo/gordura/graxa; Para Tênis, sugerimos a lavagem com produtos específicos para lavagem de calçados, com uma escova com cerdas macias em sua superfície.",
+          "O kit é composto por 3 pares de meias pretas, com calcanhar verdadeiro e cano baixo. Composição: 69% Algodão, 29% Poliamida e 2% Elastano <br>Cor: Preto, cano baixo. Para manter o produto em condições perfeitas e prezar por sua durabilidade sempre olhar antes a etiqueta de cuidado e conservação que está aplicada na parte interna da peça. Abaixo alguns cuidados gerais: Não pisar na parte do calcanhar do tênis (esmagando o contraforte); Não expor o produto a lugares quentes e úmidos por períodos excessivamente longos; Jamais coloque perto de labaredas ou qualquer tipo de fogo, para evitar deformidades de materiais; Evite contato com óleo/gordura/graxa; Para Tênis, sugerimos a lavagem com produtos específicos para lavagem de calçados, com uma escova com cerdas macias em sua superfície.",
         imageURLs: ["https://abre.ai/v-acessorios-meia"],
         basePrice: 59.9,
         categoryId: voleiCategory.id,
